@@ -13,12 +13,14 @@ Java 8 or higher
 src/
  commands/
  robot/
+ Main.java
+ GuidedMain.java 
 
 ## Running the Program
 
 ### Simple Mode
 Run:
-java robot.Main
+java Main
 
 Input example:
 5 5
@@ -30,4 +32,4 @@ Output:
 
 ### Guided Mode
 Run:
-java robot.GuidedMain
+java GuidedMain
